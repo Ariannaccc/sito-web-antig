@@ -1,0 +1,28 @@
+<PhysicalObject xmlns:dc="http://purl.org/dc/elements/1.1/">
+<item n="ICCD4921943" xml:id="Catalogo generale dei beni culturali-ICCD4921943">
+<dc:identifier>ICCD4921943</dc:identifier>
+<dc:title>Metamorfosi di Antigone in Cicogna</dc:title>
+<dc:description>
+Coppa ad orlo rovesciato con <persona>Antigone</persona> trasformata in cicogna, recante il gonfalone con l'arma Pucci, in maiolica dipinta in giallo, azzurro, verde, marrone-nero. Il retro è smaltato con epigrafe del pittore entro listello. La scena presenta <persona>Giunone</persona> al centro accompagnata da un putto alato e dal pavone e destra irata contro Antigone a sinistra, inginocchiata che viene trasformata in cicogna dagli Dei per evitare la maledizione di Giunone che gli voleva cambiare i capelli in serpenti.
+</dc:description>
+<dc:creator>Francesco Xanto Avelli</dc:creator>
+<dc:date type="subject">1486</dc:date>
+<dc:date type="creation">1533</dc:date>
+<dc:title>Metamorfosi di Antigone in Cicogna</dc:title>
+<dc:coverage>Italy</dc:coverage>
+<dc:subject type="classification-scheme">Manufatti e ceramiche di artisti italiani</dc:subject>
+<dc:type>Manufatto</dc:type>
+<dc:type>Coppa</dc:type>
+<dc:format>maiolica</dc:format>
+<dc:format type="tecnica">lustrata</dc:format>
+<dc:format type="extent">33mm(h) 259mm(Φ)</dc:format>
+<dc:relation type="haspart">iscrizione</dc:relation>
+	<dc:description>1533. COVERTE GIUNO ANTIGO / NE I CICOGNA /NEL. VILIBRO DE OVIDIO MET: / FRA: XANTO A. / ROVIG: I/ URBINO</dc:description>
+	<dc:format>a penna</dc:format>
+	<dc:format>corsivo</dc:format>
+<dc:source xml:id="CGBC">Catalogo generale dei beni culturali</dc:source>
+<dc:provenance>Museo Statale d'Arte Medievale e Moderna, Arezzo</dc:provenance>
+<dc:right>Museo Statale d'Arte Medievale e Moderna, Arezzo</dc:right>
+</item>
+
+</PhysicalObject>

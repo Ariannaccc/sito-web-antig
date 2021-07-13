@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+		<fileDesc>
+			<titleStmt>
+				<title>᾿Αντιγόνη</title>
+				<title type="alt">Antigone</title>
+				<author>Sofocle</author>
+				<author type="alt">Sophocles</author>
+				<respStmt xml:id="OTA">
+					<resp>digitalizzazione</resp>
+					<name >Oxford text archive</name>
+				</respStmt>
+				<respStmt xml:id="AC">
+					<resp>metadatazione</resp>
+					<resp>commento</resp>
+					<name>Arianna Canu</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oxford text archive</publisher>
+				<address>
+					<addrLine>Oxford</addrLine>
+				</address>
+				<availability>
+					Testo liberamente consultabile e scaricabile
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Trascritto dall'edizione di riferimento: Sophocles. Sophocles. Vol 1: Oedipus the king. Oedipus at Colonus. Antigone. With an English translation by F. Storr. The Loeb classical library, 20. Francis Storr. London; New York. William Heinemann Ltd.; The Macmillan Company. 1912.</p>
+			</sourceDesc>
+	</fileDesc>
+	</teiHeader>
+	<text xml:lang="grc">
+		<body>
+			<div type="edition" n="http://hdl.handle.net/20.500.12024/0276" xml:lang="grc">
+				<div type="textpart" subtype="episode">
+					<sp>
+						<speaker><name type="persona" resp="#AC">Ἀντιγόνη</name></speaker>
+						<l n="1">ὦ κοινὸν <index indexName="nomi di parentela"><term>αὐτάδελφον</term></index> <name type="persona" resp="#AC">Ἰσμήνης</name> κάρα,</l>
+						<l n="2">ἆρʼ οἶσθʼ ὅ τι <name type="divinità" resp="#AC">Ζεὺς</name> τῶν ἀπʼ <name type="persona" resp="#AC">Οἰδίπου</name> κακῶν</l>
+						<l n="3">ὁποῖον οὐχὶ νῷν ἔτι ζώσαιν τελεῖ;</l>
+						<l n="4">οὐδὲν γὰρ οὔτʼ ἀλγεινὸν οὔτʼ ἄτης ἄτερ</l>
+						<l n="5">οὔτʼ αἰσχρὸν οὔτʼ ἄτιμόν ἐσθʼ, ὁποῖον οὐ</l>
+						<l n="6">τῶν σῶν τε κἀμῶν οὐκ ὄπωπʼ ἐγὼ κακῶν.</l>
+						<l n="7">καὶ νῦν τί τοῦτʼ αὖ φασι πανδήμῳ πόλει</l>
+						<l n="8">κήρυγμα θεῖναι τὸν στρατηγὸν ἀρτίως;</l>
+						<l n="9">ἔχεις τι κεἰσήκουσας; ἤ σε λανθάνει</l>
+						<l n="10">πρὸς τοὺς φίλους στείχοντα τῶν ἐχθρῶν κακά;</l>
+					</sp>
+					<sp>
+						<speaker><name type="persona" resp="#AC">Ἰσμήνη</name></speaker>
+						<l n="11">ἐμοὶ μὲν οὐδεὶς μῦθος, Ἀντιγόνη φίλων</l>
+						<l n="12">οὔθʼ ἡδὺς οὔτʼ ἀλγεινὸς ἵκετʼ ἐξ ὅτου</l>
+						<l n="13">δυοῖν ἀδελφοῖν ἐστερήθημεν δύο,</l>
+						<l n="14">μιᾷ θανόντοιν ἡμέρᾳ διπλῇ χερί·</l>
+						<l n="15">ἐπεὶ δὲ φροῦδός <choice><corr cert="high" resp="#AC">ἐστιν</corr><sic>ἐστι</sic></choice> Ἀργείων στρατὸς</l>
+						<l n="16">ἐν νυκτὶ τῇ νῦν, οὐδὲν οἶδʼ ὑπέρτερον,</l>
+						<l n="17">οὔτʼ εὐτυχοῦσα μᾶλλον οὔτʼ ἀτωμένη.</l>
+					</sp>
+				</div>
+				<div type="textpart" subtype="anapests">
+					<sp>
+						<speaker>Χορός</speaker>
+						<l n="1347">πολλῷ τὸ φρονεῖν εὐδαιμονίας</l>
+						<l n="1348">πρῶτον ὑπάρχει. χρὴ δὲ τά γʼ εἰς θεοὺς</l>
+						<l n="1350">μηδὲν ἀσεπτεῖν. μεγάλοι δὲ λόγοι</l>
+						<l n="1351">μεγάλας πληγὰς τῶν ὑπεραύχων</l>
+						<l n="1352">ἀποτίσαντες</l>
+						<l n="1353">γήρᾳ τὸ φρονεῖν ἐδίδαξαν.</l>
+					</sp>
+				</div>
+			</div>
+		</body>
+	</text >
+</TEI >
